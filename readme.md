@@ -2,9 +2,8 @@
 
 ### Swagger
 
-#### Post
+
 <img src="imagem_post.jpg">
-#### Get
 <img src="imagem_get.jpg">
 
 ### Thunder
