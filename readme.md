@@ -13,7 +13,7 @@
 
 
 
-<br> * instalar extensões
+ * instalar extensões
 <br> * thunderclient
 <br> * python
 <br> * material icons
